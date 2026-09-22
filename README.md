@@ -102,6 +102,8 @@ Start services in the following order:
 7. **Verify Decrement:** `GET /packages/1` *(Capacity reduced from 15 to 14)*
 8. **View Bookings:** `GET /bookings`
 
+
+R.Navdeep
 ---
 
 ## 📄 Complete Project Documentation & PDF
